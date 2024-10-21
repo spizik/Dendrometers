@@ -2,7 +2,11 @@
 #'
 #' return text
 #' 
+#' @param df text to be returned
+#' @keywords hello world
 #' @export
-hello_word<-function(){
-  print("Yes")
+#' @examples
+#' hello_world()
+hello_word<-function(what){
+  print(what)
 }
