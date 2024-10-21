@@ -1,0 +1,14 @@
+Package: Dendrometers
+Type: Package
+Title: It does what I need
+Version: 0.1.0
+Authors@R: 
+    person(given = "Jakub",
+           family = "Kaspar",
+           role = c("aut", "cre"),
+           email = "jakub.kaspar@vukoz.cz",
+           comment = c(ORCID = "0000-0003-1780-6310"))
+Description: Functions to handle band dendrometer data
+License: MIT
+Encoding: UTF-8
+Depends: R (>= 4.4.0)
