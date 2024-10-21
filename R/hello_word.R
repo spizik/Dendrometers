@@ -1,7 +1,8 @@
 #' hello_word
 #'
 #' return text
-#' hello_word()
+#' 
+#' @export
 hello_word<-function(){
   print("Yes")
 }
