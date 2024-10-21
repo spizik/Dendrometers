@@ -4,8 +4,16 @@
 \alias{hello_word}
 \title{hello_word}
 \usage{
-hello_word()
+hello_word(what)
+}
+\arguments{
+\item{df}{text to be returned}
 }
 \description{
 return text
 }
+\examples{
+hello_world()
+}
+\keyword{hello}
+\keyword{world}
