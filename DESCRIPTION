@@ -12,3 +12,4 @@ Description: Functions to handle band dendrometer data
 License: MIT
 Encoding: UTF-8
 Depends: R (>= 4.4.0)
+RoxygenNote: 7.3.2
